@@ -1,0 +1,169 @@
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    background-color: #F7F7F7;
+}
+
+table {
+    margin: 0 auto;
+    text-align: left;
+}
+a {
+    color: #11999E;
+    text-decoration:none;
+}
+a:hover {
+    color: #40514E;
+}
+hr {
+    border: dotted #D1E8E4 7px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+h1 {
+    font-size: 5.625rem;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Rock 3D', cursive;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Rock 3D', cursive;
+    color:  #11999E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 160px;
+}
+.profile {
+    width:49%;
+    margin: 20px auto;
+    text-align: left;
+}
+.middle-container {
+    margin: 120px 0;
+}
+.profile-img {
+}
+.top-cloud {
+    position: absolute;
+    left: 1000px;
+    top: 110px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+    top: 450px;
+}
+.coding {
+    position: absolute;
+    right: 300px;
+    top: 350px;
+}
+.chess {
+    position: absolute;
+    right: 200px;
+    top: 500px;
+}
+.education {
+    line-height: 2;
+    width:35%;
+    margin: 80px auto 80px auto;
+}
+.courses {
+    width:100%;
+    margin: 30px auto 100px auto;
+    text-align: left;
+}
+.skill-row {
+    width:50%;
+    margin: 80px auto 100px auto;
+    text-align: left;
+}
+.programming {
+    width: 17%;
+    float: right;
+    margin-left: 50px;
+}
+.personal-skills {
+    width: 14%;
+    float: right;
+    margin-left: 50px;
+}
+
+.experience {
+    width:50%;
+    margin: 80px auto 100px auto;
+    text-align: left;
+}
+.training {
+    width:10%;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.hobbies {
+    width:50%;
+    margin: 80px auto 100px auto;
+}
+.contact-me {
+    width: 50%;
+    margin: 80px auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: 'Rock 3D', cursive;
+  color: #EAF6F6;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+}
+.footer-link {
+    margin: 10px;
+}
+
+.water-mark {
+    color: #EAF6F6;
+    padding: 10px;
+}
+
+
